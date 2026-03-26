@@ -1,0 +1,9 @@
+.alerta {
+    border-left: 6px solid red;
+    background-color: #ffe5e5;
+}
+
+.estrela {
+    border-left: 6px solid green;
+    background-color: #e5ffe5;
+}
