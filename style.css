@@ -1,0 +1,7 @@
+body { background: #f4f7f6; font-family: 'Segoe UI', sans-serif; }
+.card { border-radius: 12px; }
+.bg-soft-primary { background-color: #e7f0ff; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; }
+.btn-primary { background-color: #0d6efd; border: none; }
+.btn-dark { background-color: #212529; border: none; }
+.table thead th { border-bottom: 1px solid #eee; }
+input[type=number]::-webkit-inner-spin-button { display: none; }
